@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\bin\Debug\DemoDataGridView2.exe
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\bin\Debug\DemoDataGridView2.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.csproj.ResolveComReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.exe
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.ChangeSlot.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.csproj.ResolveComReference.cache
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.exe
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.pdb
+E:\HocTap\PTTKGT\assigment1_final_baocao\giaodien_final\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.csproj.ResolveComReference.cache
+E:\HocTap\PTTKGT\assigment1_final_baocao\giaodien_final\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.exe
+E:\HocTap\PTTKGT\assigment1_final_baocao\giaodien_final\DemoDataGridView2\DemoDataGridView2\obj\Debug\DemoDataGridView2.pdb

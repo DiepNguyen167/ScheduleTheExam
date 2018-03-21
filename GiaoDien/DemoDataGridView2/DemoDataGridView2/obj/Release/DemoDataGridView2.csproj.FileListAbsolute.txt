@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Release\DemoDataGridView2.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\bin\Release\DemoDataGridView2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\bin\Release\DemoDataGridView2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Release\DemoDataGridView2.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Release\DemoDataGridView2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Release\DemoDataGridView2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Release\DemoDataGridView2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Release\DemoDataGridView2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Release\DemoDataGridView2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView2\DemoDataGridView2\obj\Release\DemoDataGridView2.ChangeSlot.resources

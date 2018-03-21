@@ -1,0 +1,55 @@
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form2.resources
+c:\users\administrator\documents\visual studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csprojResolveAssemblyReference.cache
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csproj.ResolveComReference.cache
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.exe
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.pdb
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView1.exe
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView2.exe
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView2.pdb
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csprojResolveAssemblyReference.cache
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form1.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form2.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form3.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.MainForm.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Properties.Resources.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\han nguoi phu phang -_--\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csproj.GenerateResource.Cache
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csproj.ResolveComReference.cache
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.exe
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.pdb
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView1.exe
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView1.pdb
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView2.exe
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView2.pdb
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csprojResolveAssemblyReference.cache
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form1.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form2.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form3.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.MainForm.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Properties.Resources.resources
+E:\HocTap\PTTKGT\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.exe
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.pdb
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView1.exe
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView2.exe
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView2.pdb
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form1.resources
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form2.resources
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Form3.resources
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.MainForm.resources
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\obj\Debug\DemoDataGridView1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\51503312_NguyenThiDiep\DemoDataGridView1\DemoDataGridView1\bin\Debug\DemoDataGridView1.pdb
